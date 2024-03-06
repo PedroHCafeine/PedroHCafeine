@@ -4,6 +4,7 @@
 - 📚 Atualmente cursando Ciência da Computação e aprendendo Back-End.
 - 💬 Línguas: Inglês e Portugês(Br).
 - 💻 Conhecimento: Java, Python.
+- 📧 Contato: pedrohenriquecastrobrito@gmail.com
 
 ![PedroHCafeine's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroHCafeine&show_icons=true&theme=tokyonight)
 
@@ -18,7 +19,7 @@
  
 <div> 
   
-  <a href = "emailto:pedrohenriquecastrobrito@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:pedrohenriquecastrobrito@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedro-henrique-castro-brito-7761362aa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
